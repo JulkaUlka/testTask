@@ -37,7 +37,6 @@ export function CommentForm({ onSubmit }) {
   const handleSubmit = event => {
     event.preventDefault();
     onSubmit({ user: { username }, body });
-    console.log({ user: { username }, body });
     resetForm();
     storage.remove(COMMENT);
   };
