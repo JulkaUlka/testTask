@@ -1,8 +1,8 @@
 {
-  "name": "testTask",
+  "name": "test_task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JulkaUlka.github.io/testTask/",
+  "homepage": "https://JulkaUlka.github.io/test_task/",
   "dependencies": {
     "nanoid": "^4.0.1",
     "react": "^18.1.0",
